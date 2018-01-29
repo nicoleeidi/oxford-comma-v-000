@@ -18,3 +18,5 @@ else
   result << array[array.length-1]
   return result
 end
+end
+
