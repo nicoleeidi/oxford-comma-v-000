@@ -4,5 +4,5 @@ def oxford_comma(array)
     result += array[i]
     result += ", "
   end
-  return result + "and" + array[array.length-1] + "."
+  return "result + "and" + array[array.length-1] + ".""
 end
