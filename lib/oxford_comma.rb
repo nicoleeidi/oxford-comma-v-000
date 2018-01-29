@@ -1,4 +1,10 @@
 def oxford_comma(array)
+if array.length== 1 
+
+if array.length== 2 
+  array.join(, )
+
+
   i = 0
   result= ""
   while i < (array.length-1)
